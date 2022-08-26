@@ -1,0 +1,6 @@
+
+Se solicitó incluir todas las variables en el mismo analisis (las 
+que anteriormente habian sido separadas en bioticas y abioticas) 
+para anfibios y para reptiles
+
+
